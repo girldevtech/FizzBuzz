@@ -1,0 +1,15 @@
+*.exe
+*.o
+*.so
+*.suo
+*.vspscc
+*.vsscc
+*.bak
+*.log
+*.lib
+/obj
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+[Bb]uild/
+
